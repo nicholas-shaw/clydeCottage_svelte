@@ -11,3 +11,8 @@
         So why wait? Book your stay at our cozy cottage in White Beach, Tasmania, and immerse yourself in the unique experiences the Tasman Peninsula has to offer. Whether you're a history buff, a nature lover, a food and wine enthusiast, or simply seeking a peaceful getaway, this cottage is the perfect accommodation choice. Experience Tasmania in its most authentic form, right from the comfort of our homely cottage.
     </p>
 </div>
+
+<svelte:head>
+    <title>Clyde Cottage Tasmania - White Beach, Tasman Peninsula</title>
+    <meta name="description" content="Cozy, peaceful accommodation in White Beach, Tasmania. Close to Port Arthur, and other sites of natural and historical significance.">
+</svelte:head>
