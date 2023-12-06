@@ -42,15 +42,22 @@ header h1 {
 
 /* Hero Image */
 .heroImage {
-    width: 100%;
-    text-align: center;
+    display: grid;
+    height: 100%;
+}
+
+.heroImage img {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
 }
 
 /* Article */
 .articleContainer {
     letter-spacing: -1px;
-    max-width: 1200px;
-    margin: 10rem;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
     line-height: 3rem;
 }
 
@@ -58,7 +65,7 @@ header h1 {
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
     text-align: center;
-    padding: 5rem;
+    padding: 5rem 2rem;
 }
 
 .cta div {
