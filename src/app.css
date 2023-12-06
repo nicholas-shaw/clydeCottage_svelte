@@ -47,3 +47,24 @@ header h1 {
     margin: 10rem;
     line-height: 3rem;
 }
+
+.cta {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    padding: 5rem;
+}
+
+.cta div {
+    margin: 0px auto;
+    height: 5rem;
+    width: 15rem;
+    background-color: rgb(255, 56, 92);
+    border-radius: 2rem;
+    line-height: 5rem;
+}
+
+.cta a {
+    color: white;
+    text-decoration: none;
+}

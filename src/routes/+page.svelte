@@ -1,5 +1,6 @@
 <div class='heroImage'><img src="https://a0.muscache.com/im/pictures/miso/Hosting-51540661/original/33edad68-109a-40c1-b882-1af899df7114.jpeg?im_w=960" alt="Clyde Cottage exterior view showing the front verandah"></div>
 <div class="articleContainer">
+    <div class="cta"><p>Reserve your stay on airbnb.</p><div><a href="https://www.airbnb.com.au/rooms/51540661">Book now</a></div></div>
     <p>
         Discover the charm of Tasmania's White Beach in our cozy, picturesque cottage, nestled in the heart of the Tasman Peninsula. This is the ideal spot for those seeking the perfect blend of tranquility and adventure. White Beach, renowned for its crystal-clear waters and pristine sands, is a haven for beach lovers. Meanwhile, the nearby Tasman National Park offers breathtaking hiking trails for nature enthusiasts. This cottage is not just an accommodation, it's a gateway to the best of Tasmania's natural beauty.
     </p>
