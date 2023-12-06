@@ -29,11 +29,13 @@ header h1 {
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 0.6rem;
-    padding: 2rem 0 0 5rem;
+    padding: 2rem 5rem 0 5rem;
     font-weight: 100;
 }
 
 .logoScript {
+    position:relative;
+    left: -3rem;
     font-family: 'Waterfall', cursive;
     font-size: 12rem;
     letter-spacing: -5rem;
