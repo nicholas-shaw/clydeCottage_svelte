@@ -15,6 +15,7 @@
 </div>
 
 <svelte:head>
-    <title>Cottage Accommodation | Clyde Cottage - White Beach, Tasmania</title>
+    <title>The Cottage | Clyde Cottage - White Beach, Tasmania</title>
     <meta name="description" content="Cozy accommodation in peaceful White Beach, Tasmania. Book on airbnb to be close to Port Arthur, and other sites of natural and historical significance.">
+    <meta name="thumbnail" content="clydeCottageThumb.png" />
 </svelte:head>
