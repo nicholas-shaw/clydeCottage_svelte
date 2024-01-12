@@ -16,5 +16,5 @@
 
 <svelte:head>
     <title>Clyde Cottage Accommodation | White Beach - Tasmania</title>
-    <meta name="description" content="Cozy accommodation in peaceful White Beach, on the Tasmani Peninsula. Book on airbnb to be close to Port Arthur, and other sites of natural and historical significance.">
+    <meta name="description" content="Cozy accommodation in peaceful White Beach, Tasmania. Book on airbnb to be close to Port Arthur, and other sites of natural and historical significance.">
 </svelte:head>
